@@ -4,7 +4,11 @@ This project predicts customer churn using machine learning models. The Random F
 
 📌 Features
 
-✔ Machine Learning Model: Predicts customer churn with 85.31% accuracy using Random Forest.✔ SMOTE Oversampling: Handles class imbalance for better model performance.✔ Hyperparameter Tuning: Uses GridSearchCV for optimization.✔ Web App Deployment: Built with Streamlit for real-time predictions.✔ User-Friendly Interface: Allows easy input of customer details and generates churn predictions instantly.
+✔ Machine Learning Model: Predicts customer churn with 85.31% accuracy using Random Forest.
+✔ SMOTE Oversampling: Handles class imbalance for better model performance.
+✔ Hyperparameter Tuning: Uses GridSearchCV for optimization.
+✔ Web App Deployment: Built with Streamlit for real-time predictions.
+✔ User-Friendly Interface: Allows easy input of customer details and generates churn predictions instantly.
 
 📊 Dataset & Model
 
@@ -22,7 +26,11 @@ Final Model: Optimized Random Forest (85.31% accuracy)
 
 How to Use the Web App?
 
-1️⃣ Enter customer details (gender, tenure, monthly charges, etc.)2️⃣ Click "Predict Churn"3️⃣ Get an instant prediction ✅
+1️⃣ Enter customer details (gender, tenure, monthly charges, etc.)
+2️⃣ Click "Predict Churn"
+3️⃣ Get an instant prediction ✅
+
+
 
 🛠 How to Run Locally?
 
@@ -40,6 +48,8 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 
 This will launch the web app in your browser.
+
+
 
 ⚙️ Machine Learning Pipeline
 
@@ -63,6 +73,6 @@ This project is open-source and free to use.
 
 For any questions, feel free to connect with me:
 📧 Email: vinaysagarr0601@gmail.com🔗 
-LinkedIn: Vinay Sagar Rampa🔗 
-GitHub Repo: Customer Churn Prediction
+LinkedIn: (https://www.linkedin.com/in/vinay-sagar-rampa-1b8b75281)🔗 
+GitHub Repo:(https://github.com/VinaySagarr/customer-churn-prediction/blob/main/README.md)
 
